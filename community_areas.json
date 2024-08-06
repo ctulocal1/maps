@@ -1,0 +1,618 @@
+[
+  {
+  "number": 1,
+  "name": "Rogers Park",
+  "url": "https://en.wikipedia.org/wiki/Rogers_Park,_Chicago",
+  "population": 55628,
+  "area": 1.84,
+  "density": 30232.61
+  },
+  {
+  "number": 2,
+  "name": "West Ridge",
+  "url": "https://en.wikipedia.org/wiki/West_Ridge,_Chicago",
+  "population": 77122,
+  "area": 3.53,
+  "density": 21847.59
+  },
+  {
+  "number": 3,
+  "name": "Uptown",
+  "url": "https://en.wikipedia.org/wiki/Uptown,_Chicago",
+  "population": 57182,
+  "area": 2.32,
+  "density": 24647.41
+  },
+  {
+  "number": 4,
+  "name": "Lincoln Square",
+  "url": "https://en.wikipedia.org/wiki/Lincoln_Square,_Chicago",
+  "population": 40494,
+  "area": 2.56,
+  "density": 15817.97
+  },
+  {
+  "number": 5,
+  "name": "North Center",
+  "url": "https://en.wikipedia.org/wiki/North_Center,_Chicago",
+  "population": 35114,
+  "area": 2.05,
+  "density": 17128.78
+  },
+  {
+  "number": 6,
+  "name": "Lake View",
+  "url": "https://en.wikipedia.org/wiki/Lake_View,_Chicago",
+  "population": 103050,
+  "area": 3.12,
+  "density": 33028.85
+  },
+  {
+  "number": 7,
+  "name": "Lincoln Park",
+  "url": "https://en.wikipedia.org/wiki/Lincoln_Park,_Chicago",
+  "population": 70492,
+  "area": 3.16,
+  "density": 22307.59
+  },
+  {
+  "number": 8,
+  "name": "Near North Side",
+  "url": "https://en.wikipedia.org/wiki/Near_North_Side,_Chicago",
+  "population": 105481,
+  "area": 2.74,
+  "density": 38496.72
+  },
+  {
+  "number": 9,
+  "name": "Edison Park",
+  "url": "https://en.wikipedia.org/wiki/Edison_Park,_Chicago",
+  "population": 11525,
+  "area": 1.13,
+  "density": 10199.12
+  },
+  {
+  "number": 10,
+  "name": "Norwood Park",
+  "url": "https://en.wikipedia.org/wiki/Norwood_Park,_Chicago",
+  "population": 38303,
+  "area": 4.37,
+  "density": 8764.99
+  },
+  {
+  "number": 11,
+  "name": "Jefferson Park",
+  "url": "https://en.wikipedia.org/wiki/Jefferson_Park,_Chicago",
+  "population": 26216,
+  "area": 2.33,
+  "density": 11251.5
+  },
+  {
+  "number": 12,
+  "name": "Forest Glen",
+  "url": "https://en.wikipedia.org/wiki/Forest_Glen,_Chicago",
+  "population": 19596,
+  "area": 3.2,
+  "density": 6123.75
+  },
+  {
+  "number": 13,
+  "name": "North Park",
+  "url": "https://en.wikipedia.org/wiki/North_Park,_Chicago",
+  "population": 17559,
+  "area": 2.52,
+  "density": 6967.86
+  },
+  {
+  "number": 14,
+  "name": "Albany Park",
+  "url": "https://en.wikipedia.org/wiki/Albany_Park,_Chicago",
+  "population": 48396,
+  "area": 1.92,
+  "density": 25206.25
+  },
+  {
+  "number": 15,
+  "name": "Portage Park",
+  "url": "https://en.wikipedia.org/wiki/Portage_Park,_Chicago",
+  "population": 63020,
+  "area": 3.95,
+  "density": 15954.43
+  },
+  {
+  "number": 16,
+  "name": "Irving Park",
+  "url": "https://en.wikipedia.org/wiki/Irving_Park,_Chicago",
+  "population": 51940,
+  "area": 3.21,
+  "density": 16180.69
+  },
+  {
+  "number": 17,
+  "name": "Dunning",
+  "url": "https://en.wikipedia.org/wiki/Dunning,_Chicago",
+  "population": 43147,
+  "area": 3.72,
+  "density": 11598.66
+  },
+  {
+  "number": 18,
+  "name": "Montclare",
+  "url": "https://en.wikipedia.org/wiki/Montclare,_Chicago",
+  "population": 14401,
+  "area": 0.99,
+  "density": 14546.46
+  },
+  {
+  "number": 19,
+  "name": "Belmont Cragin",
+  "url": "https://en.wikipedia.org/wiki/Belmont_Cragin,_Chicago",
+  "population": 78116,
+  "area": 3.91,
+  "density": 19978.52
+  },
+  {
+  "number": 20,
+  "name": "Hermosa",
+  "url": "https://en.wikipedia.org/wiki/Hermosa,_Chicago",
+  "population": 24062,
+  "area": 1.17,
+  "density": 20565.81
+  },
+  {
+  "number": 21,
+  "name": "Avondale",
+  "url": "https://en.wikipedia.org/wiki/Avondale,_Chicago",
+  "population": 36257,
+  "area": 1.98,
+  "density": 18311.62
+  },
+  {
+  "number": 22,
+  "name": "Logan Square",
+  "url": "https://en.wikipedia.org/wiki/Logan_Square,_Chicago",
+  "population": 71665,
+  "area": 3.59,
+  "density": 19962.4
+  },
+  {
+  "number": 23,
+  "name": "Humboldt Park",
+  "url": "https://en.wikipedia.org/wiki/Humboldt_Park,_Chicago",
+  "population": 54165,
+  "area": 3.6,
+  "density": 15045.83
+  },
+  {
+  "number": 24,
+  "name": "West Town",
+  "url": "https://en.wikipedia.org/wiki/West_Town,_Chicago",
+  "population": 87781,
+  "area": 4.58,
+  "density": 19166.16
+  },
+  {
+  "number": 25,
+  "name": "Austin",
+  "url": "https://en.wikipedia.org/wiki/Austin,_Chicago",
+  "population": 96557,
+  "area": 7.15,
+  "density": 13504.48
+  },
+  {
+  "number": 26,
+  "name": "West Garfield Park",
+  "url": "https://en.wikipedia.org/wiki/West_Garfield_Park,_Chicago",
+  "population": 17433,
+  "area": 1.28,
+  "density": 13619.53
+  },
+  {
+  "number": 27,
+  "name": "East Garfield Park",
+  "url": "https://en.wikipedia.org/wiki/East_Garfield_Park,_Chicago",
+  "population": 19992,
+  "area": 1.93,
+  "density": 10358.55
+  },
+  {
+  "number": 28,
+  "name": "Near West Side",
+  "url": "https://en.wikipedia.org/wiki/Near_West_Side,_Chicago",
+  "population": 67881,
+  "area": 5.69,
+  "density": 11929.88
+  },
+  {
+  "number": 29,
+  "name": "North Lawndale",
+  "url": "https://en.wikipedia.org/wiki/North_Lawndale,_Chicago",
+  "population": 34794,
+  "area": 3.21,
+  "density": 10839.25
+  },
+  {
+  "number": 30,
+  "name": "South Lawndale",
+  "url": "https://en.wikipedia.org/wiki/South_Lawndale,_Chicago",
+  "population": 71399,
+  "area": 4.59,
+  "density": 15555.34
+  },
+  {
+  "number": 31,
+  "name": "Lower West Side",
+  "url": "https://en.wikipedia.org/wiki/Lower_West_Side,_Chicago",
+  "population": 33751,
+  "area": 2.93,
+  "density": 11519.11
+  },
+  {
+  "number": 32,
+  "name": "Lower West Side",
+  "url": "https://en.wikipedia.org/wiki/Chicago_Loop",
+  "population": 42298,
+  "area": 1.65,
+  "density": 25635.15
+  },
+  {
+  "number": 33,
+  "name": "Near South Side",
+  "url": "https://en.wikipedia.org/wiki/Near_South_Side,_Chicago",
+  "population": 28795,
+  "area": 1.78,
+  "density": 16176.97
+  },
+  {
+  "number": 34,
+  "name": "Armour Square",
+  "url": "https://en.wikipedia.org/wiki/Armour_Square,_Chicago",
+  "population": 13890,
+  "area": 1,
+  "density": 13890
+  },
+  {
+  "number": 35,
+  "name": "Douglas",
+  "url": "https://en.wikipedia.org/wiki/Douglas,_Chicago",
+  "population": 20291,
+  "area": 1.65,
+  "density": 12297.58
+  },
+  {
+  "number": 36,
+  "name": "Oakland",
+  "url": "https://en.wikipedia.org/wiki/Oakland,_Chicago",
+  "population": 6799,
+  "area": 0.58,
+  "density": 11722.41
+  },
+  {
+  "number": 37,
+  "name": "Fuller Park",
+  "url": "https://en.wikipedia.org/wiki/Fuller_Park,_Chicago",
+  "population": 2567,
+  "area": 0.71,
+  "density": 3615.49
+  },
+  {
+  "number": 38,
+  "name": "Grand Boulevard",
+  "url": "https://en.wikipedia.org/wiki/Grand_Boulevard,_Chicago",
+  "population": 24589,
+  "area": 1.74,
+  "density": 14131.61
+  },
+  {
+  "number": 39,
+  "name": "Kenwood",
+  "url": "https://en.wikipedia.org/wiki/Kenwood,_Chicago",
+  "population": 19116,
+  "area": 1.04,
+  "density": 18380.77
+  },
+  {
+  "number": 40,
+  "name": "Washington Park",
+  "url": "https://en.wikipedia.org/wiki/Washington_Park_(community_area),_Chicago",
+  "population": 12707,
+  "area": 1.52,
+  "density": 8359.87
+  },
+  {
+  "number": 41,
+  "name": "Hyde Park",
+  "url": "https://en.wikipedia.org/wiki/Hyde_Park,_Chicago",
+  "population": 29456,
+  "area": 1.61,
+  "density": 18295.65
+  },
+  {
+  "number": 42,
+  "name": "Woodlawn",
+  "url": "https://en.wikipedia.org/wiki/Woodlawn,_Chicago",
+  "population": 24425,
+  "area": 2.07,
+  "density": 11799.52
+  },
+  {
+  "number": 43,
+  "name": "South Shore",
+  "url": "https://en.wikipedia.org/wiki/South_Shore,_Chicago",
+  "population": 53971,
+  "area": 2.93,
+  "density": 18420.14
+  },
+  {
+  "number": 44,
+  "name": "Chatham",
+  "url": "https://en.wikipedia.org/wiki/Chatham,_Chicago",
+  "population": 31710,
+  "area": 2.95,
+  "density": 10749.15
+  },
+  {
+  "number": 45,
+  "name": "Avalon Park",
+  "url": "https://en.wikipedia.org/wiki/Avalon_Park,_Chicago",
+  "population": 9458,
+  "area": 1.25,
+  "density": 7566.4
+  },
+  {
+  "number": 46,
+  "name": "South Chicago",
+  "url": "https://en.wikipedia.org/wiki/South_Chicago,_Chicago",
+  "population": 27300,
+  "area": 3.34,
+  "density": 8173.65
+  },
+  {
+  "number": 47,
+  "name": "Burnside",
+  "url": "https://en.wikipedia.org/wiki/Burnside,_Chicago",
+  "population": 2527,
+  "area": 0.61,
+  "density": 4142.62
+  },
+  {
+  "number": 48,
+  "name": "Calumet Heights",
+  "url": "https://en.wikipedia.org/wiki/Calumet_Heights,_Chicago",
+  "population": 13088,
+  "area": 1.75,
+  "density": 7478.86
+  },
+  {
+  "number": 49,
+  "name": "Roseland",
+  "url": "https://en.wikipedia.org/wiki/Roseland,_Chicago",
+  "population": 38816,
+  "area": 4.82,
+  "density": 8053.11
+  },
+  {
+  "number": 50,
+  "name": "Pullman",
+  "url": "https://en.wikipedia.org/wiki/Pullman,_Chicago",
+  "population": 6820,
+  "area": 2.12,
+  "density": 3216.98
+  },
+  {
+  "number": 51,
+  "name": "South Deering",
+  "url": "https://en.wikipedia.org/wiki/South_Deering,_Chicago",
+  "population": 14105,
+  "area": 10.9,
+  "density": 1294.04
+  },
+  {
+  "number": 52,
+  "name": "East Side",
+  "url": "https://en.wikipedia.org/wiki/East_Side,_Chicago",
+  "population": 21724,
+  "area": 2.98,
+  "density": 7289.93
+  },
+  {
+  "number": 53,
+  "name": "West Pullman",
+  "url": "https://en.wikipedia.org/wiki/West_Pullman,_Chicago",
+  "population": 26104,
+  "area": 3.56,
+  "density": 7332.58
+  },
+  {
+  "number": 54,
+  "name": "Riverdale",
+  "url": "https://en.wikipedia.org/wiki/Riverdale,_Chicago",
+  "population": 7262,
+  "area": 3.53,
+  "density": 2057.22
+  },
+  {
+  "number": 55,
+  "name": "Hegewisch",
+  "url": "https://en.wikipedia.org/wiki/Hegewisch,_Chicago",
+  "population": 10027,
+  "area": 5.24,
+  "density": 1913.55
+  },
+  {
+  "number": 56,
+  "name": "Garfield Ridge",
+  "url": "https://en.wikipedia.org/wiki/Garfield_Ridge,_Chicago",
+  "population": 35439,
+  "area": 4.23,
+  "density": 8378.01
+  },
+  {
+  "number": 57,
+  "name": "Archer Heights",
+  "url": "https://en.wikipedia.org/wiki/Archer_Heights,_Chicago",
+  "population": 14196,
+  "area": 2.01,
+  "density": 7062.69
+  },
+  {
+  "number": 58,
+  "name": "Brighton Park",
+  "url": "https://en.wikipedia.org/wiki/Brighton_Park,_Chicago",
+  "population": 45053,
+  "area": 2.72,
+  "density": 16563.6
+  },
+  {
+  "number": 59,
+  "name": "McKinley Park",
+  "url": "https://en.wikipedia.org/wiki/McKinley_Park,_Chicago",
+  "population": 15923,
+  "area": 1.41,
+  "density": 11292.91
+  },
+  {
+  "number": 60,
+  "name": "Bridgeport",
+  "url": "https://en.wikipedia.org/wiki/Bridgeport,_Chicago",
+  "population": 33702,
+  "area": 2.09,
+  "density": 16125.36
+  },
+  {
+  "number": 61,
+  "name": "New City",
+  "url": "https://en.wikipedia.org/wiki/New_City,_Chicago",
+  "population": 43628,
+  "area": 4.83,
+  "density": 9032.71
+  },
+  {
+  "number": 62,
+  "name": "West Elsdon",
+  "url": "https://en.wikipedia.org/wiki/West_Elsdon,_Chicago",
+  "population": 18394,
+  "area": 1.17,
+  "density": 15721.37
+  },
+  {
+  "number": 63,
+  "name": "Gage Park",
+  "url": "https://en.wikipedia.org/wiki/Gage_Park,_Chicago",
+  "population": 39540,
+  "area": 2.2,
+  "density": 17972.73
+  },
+  {
+  "number": 64,
+  "name": "Clearing",
+  "url": "https://en.wikipedia.org/wiki/Clearing,_Chicago",
+  "population": 24473,
+  "area": 2.55,
+  "density": 9597.25
+  },
+  {
+  "number": 65,
+  "name": "West Lawn",
+  "url": "https://en.wikipedia.org/wiki/West_Lawn,_Chicago",
+  "population": 33662,
+  "area": 2.95,
+  "density": 11410.85
+  },
+  {
+  "number": 66,
+  "name": "Chicago Lawn",
+  "url": "https://en.wikipedia.org/wiki/Chicago_Lawn,_Chicago",
+  "population": 55931,
+  "area": 3.53,
+  "density": 15844.48
+  },
+  {
+  "number": 67,
+  "name": "West Englewood",
+  "url": "https://en.wikipedia.org/wiki/West_Englewood,_Chicago",
+  "population": 29647,
+  "area": 3.15,
+  "density": 9411.75
+  },
+  {
+  "number": 68,
+  "name": "Englewood",
+  "url": "https://en.wikipedia.org/wiki/Englewood,_Chicago",
+  "population": 24369,
+  "area": 3.07,
+  "density": 7937.79
+  },
+  {
+  "number": 69,
+  "name": "Greater Grand Crossing",
+  "url": "https://en.wikipedia.org/wiki/Greater_Grand_Crossing,_Chicago",
+  "population": 31471,
+  "area": 3.55,
+  "density": 8865.07
+  },
+  {
+  "number": 70,
+  "name": "Ashburn",
+  "url": "https://en.wikipedia.org/wiki/Ashburn,_Chicago",
+  "population": 41098,
+  "area": 4.86,
+  "density": 8456.38
+  },
+  {
+  "number": 71,
+  "name": "Auburn Gresham",
+  "url": "https://en.wikipedia.org/wiki/Auburn_Gresham,_Chicago",
+  "population": 44878,
+  "area": 3.77,
+  "density": 11903.98
+  },
+  {
+  "number": 72,
+  "name": "Beverly",
+  "url": "https://en.wikipedia.org/wiki/Beverly,_Chicago",
+  "population": 20027,
+  "area": 3.18,
+  "density": 6297.8
+  },
+  {
+  "number": 73,
+  "name": "Washington Heights",
+  "url": "https://en.wikipedia.org/wiki/Washington_Heights,_Chicago",
+  "population": 25065,
+  "area": 2.86,
+  "density": 8763.99
+  },
+  {
+  "number": 74,
+  "name": "Mount Greenwood",
+  "url": "https://en.wikipedia.org/wiki/Mount_Greenwood,_Chicago",
+  "population": 18628,
+  "area": 2.71,
+  "density": 6873.8
+  },
+  {
+  "number": 75,
+  "name": "Morgan Park",
+  "url": "https://en.wikipedia.org/wiki/Morgan_Park,_Chicago",
+  "population": 21186,
+  "area": 3.3,
+  "density": 6420
+  },
+  {
+  "number": 76,
+  "name": "O’Hare",
+  "url": "https://en.wikipedia.org/wiki/O%27Hare,_Chicago",
+  "population": 13418,
+  "area": 13.34,
+  "density": 1005.85
+  },
+  {
+  "number": 77,
+  "name": "Edgewater",
+  "url": "https://en.wikipedia.org/wiki/Edgewater,_Chicago",
+  "population": 56296,
+  "area": 1.74,
+  "density": 32354.02
+  }
+] 

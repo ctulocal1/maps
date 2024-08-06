@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Map Experiment</title>
+</head>
+<body>
+    <div id="dataOutput"><p>No Data</p></div>
+    <figure id="areas"></figure>
+    <style>
+    #areas {
+      height: 96vh;
+    }
+    #areas path:hover {
+      fill: red;
+    }
+    #dataOutput {
+      width: 100vw;
+      min-width: 600px;
+      font-family: sans-serif;
+    }
+    #dataOutput table {
+      min-width: 300px;
+      font-size: 18px;
+    }
+    #dataOutput table tr {
+      border-bottom: 1px solid #dddddd;
+    }
+    #dataOutput table caption {
+      text-align: left;
+      font-size: 32px;
+      border-bottom: 3px solid #333333;
+      white-space: nowrap;
+    }
+    #dataOutput table td:last-child {
+      padding-left: 10px;
+    }
+    </style>
+    <script>
+    async function getData() {
+      const url = "./community_areas.json";
+      try {
+        const response = await fetch(url);
+        if (!response.ok) {
+          throw new Error(`Response status: ${response.status}`);
+        }
+        const data = await response.json();
+        return data;
+      } catch (error) {
+        console.error(error.message);
+      }
+    }
+    async function getMap() {
+      const url = "./Community_areas_Chicago.svg";
+      try {
+        const response = await fetch(url);
+        if (!response.ok) {
+          throw new Error(`Response status: ${response.status}`);
+        }
+        const map = await response.text();
+        return map;
+      } catch (error) {
+        console.error(error.message);
+      }
+    }
+    let areas = document.getElementById("areas");
+    let data = getData()
+    .then(data => {
+      getMap()
+        .then(svg => {
+          areas.innerHTML=svg;
+        })
+        .then(() => {
+          let areaPaths = document.querySelectorAll("#areas path");
+          areaPaths.forEach((path) => {
+            const areaNumber = parseInt( path.id.slice(1,) );
+            const areaMatch = data.filter((area) => area.number === areaNumber);
+            const areaData = areaMatch[0];
+            let dataTable = `
+<table id="${areaData.number}">
+<thead>
+<caption>${areaData.number}: ${areaData.name}</caption>
+</thead>
+<tr><td>Population:</td><td>${areaData.population.toLocaleString()}</td></tr>
+<tr><td>Area:</td><td>${areaData.area} mi<sup>2</sup></td></tr>
+<tr><td>Population Density:</td><td>${areaData.density.toLocaleString()}</td></tr>
+<tbody>
+</tbody>
+</table>
+`;
+            path.addEventListener("click", (e) => {
+              let dataOutput = document.querySelector("#dataOutput");
+              dataOutput.innerHTML = dataTable;
+            });
+          });
+        });
+    })
+    </script>
+</body>
+</html>
